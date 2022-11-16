@@ -26,14 +26,14 @@ color: white;
 }
 h4{
     text-align: center;
+    box-shadow: 8px 10px 8px 4px #FFFFFF;
+
 }
 .color2{
     background-color: #FF3399;
 }
 
-#ballet{
-    background-color: #FF0080;
-}
+
 .coldanza{
     font-family: 'Bree Serif', serif;
     color: whitesmoke;
@@ -44,6 +44,8 @@ h4{
     color: whitesmoke;
     font-size: 2em;
 }
-.free{
-    background-color: #FF0080;
+.clasico{
+    font-family: 'Bree Serif', serif;
+    color: whitesmoke;
+    font-size: 2em;
 }
