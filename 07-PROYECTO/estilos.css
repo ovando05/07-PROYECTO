@@ -26,8 +26,7 @@ color: white;
 }
 h4{
     text-align: center;
-    box-shadow: 8px 10px 8px 4px #FFFFFF;
-
+    text-shadow: -3px 0px 17px rgba(255,255,255,1);
 }
 .color2{
     background-color: #FF3399;
@@ -37,7 +36,7 @@ h4{
 .coldanza{
     font-family: 'Bree Serif', serif;
     color: whitesmoke;
-    font-size: 2em;
+    font-size: 1em;
 }
 .danza{
     font-family: 'Bree Serif', serif;
@@ -48,4 +47,27 @@ h4{
     font-family: 'Bree Serif', serif;
     color: whitesmoke;
     font-size: 2em;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 6em;
+    font-family: 'Bree Serif', serif;
+
+
+}
+.hor{
+    border-bottom:solid white 1em;
+}
+hr{
+    color: white;
+
+}
+footer{
+    text-align: center;
+}
+p{
+    font-size: 2em;
+    font-family: 'Bree Serif', serif;
+
 }
