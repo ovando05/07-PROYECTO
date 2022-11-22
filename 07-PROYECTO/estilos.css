@@ -33,11 +33,6 @@ h4{
 }
 
 
-.coldanza{
-    font-family: 'Bree Serif', serif;
-    color: whitesmoke;
-    font-size: 1em;
-}
 .danza{
     font-family: 'Bree Serif', serif;
     color: whitesmoke;
@@ -67,3 +62,9 @@ footer{
     text-align: center;
 }
 
+.ini{
+    color: white;
+    font-size: 2em;
+    font-family: 'Bree Serif', serif;
+
+}
