@@ -16,7 +16,7 @@ h3{
     font-weight: 100;
 }
 .color{
-    background-color: #850e49;
+    background-color: #a82566;
     text-align: center;
 }
 .star{
@@ -67,4 +67,11 @@ footer{
     font-size: 2em;
     font-family: 'Bree Serif', serif;
 
+}
+.nav-link{
+    color: white;
+}
+.col-flecha{
+text-align: left;
+margin-left: 1%
 }
